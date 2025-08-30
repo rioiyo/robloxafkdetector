@@ -1,5 +1,5 @@
 # robloxafkdetector
-A tool that warns you when you are about to be AFK-kicked on roblox (lets you know ~2 minutes before being kicked)
+A tool that warns you when you are about to be AFK-kicked on roblox.
 
 Detects when the RobloxPlayerBeta.exe process hasn't received any input for 18 minutes, and plays a short beeping noise aswell as displaying a pop-up. 
 Useful for afk-ing certain games that dont have an anti-afk measure in place.
