@@ -9,4 +9,4 @@ This was made in AutoHotkey in literally 10 minutes with the help of ChatGPT, it
 
 INSTALLATION:
 
-Just download the .exe from releases and run it, it will let you know when you're about to be kicked.
+Just download the .exe from releases and run it, input the .exe name (leave blank for roblox) (find the .exe by right clicking the program in task manager and going to properties), the tool will notify you when you're about to be kicked.
